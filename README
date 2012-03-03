@@ -1,0 +1,4 @@
+usage:
+
+$.is_valid_email("asdf"); //false
+$.is_valid_email("asdf@asdf.com")' //true
